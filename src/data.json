@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "_id": { "$oid": "5e4fdc962db1b299093e2e27" },
+      "name": "mouse",
+      "price": { "$numberInt": "5" },
+      "available_quantity": { "$numberInt": "100" }
+    },
+    {
+      "_id": { "$oid": "5e4fdcd52db1b299093e2e45" },
+      "name": "keyboard",
+      "price": { "$numberInt": "10" },
+      "available_quantity": { "$numberInt": "2" }
+    },
+    {
+      "_id": { "$oid": "5e4fdcff2db1b299093e2e54" },
+      "name": "monitor",
+      "price": { "$numberInt": "40" },
+      "available_quantity": { "$numberInt": "30" }
+    }
+  ]
+}

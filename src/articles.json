@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "_id": { "$oid": "5e4fdc962db1b299093e2e27" },
+      "name": "mouse",
+      "price": { "$numberInt": "5" },
+      "available_quantity": { "$numberInt": "100" },
+      "image": "https://webftp.evolveo.com/ftp/pc/mouse/wm242b-mouse/img/WM-242B_img_11.jpg"
+    },
+    {
+      "_id": { "$oid": "5e4fdcd52db1b299093e2e45" },
+      "name": "keyboard",
+      "price": { "$numberInt": "10" },
+      "available_quantity": { "$numberInt": "2" },
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81PLqxtrJ3L._AC_SL1500_.jpg"
+    },
+    {
+      "_id": { "$oid": "5e4fdcff2db1b299093e2e54" },
+      "name": "monitor",
+      "price": { "$numberInt": "40" },
+      "available_quantity": { "$numberInt": "30" },
+      "image": "https://d38mgcmyyj7ss3.cloudfront.net/Img/Prodotti/HD/214113_2.jpg"
+    }
+  ]
+}

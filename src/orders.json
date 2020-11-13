@@ -1,0 +1,25 @@
+{
+  "_id": { "$oid": "5e4fdfbd21146d12587ffe03" },
+  "user": { "$oid": "5e4fde5d21146d12587ffd98" },
+  "articles": [
+    {
+      "article_id": {
+        "$oid": "5e4fdc962db1b299093e2e27"
+      },
+      "qty": { "$numberInt": "1" }
+    },
+    {
+      "article_id": {
+        "$oid": "5e4fdcd52db1b299093e2e45"
+      },
+      "qty": { "$numberInt": "1" }
+    },
+    {
+      "article_id": {
+        "$oid": "5e4fdcff2db1b299093e2e54"
+      },
+      "qty": { "$numberInt": "1" }
+    }
+  ],
+  "status": "pending"
+}
